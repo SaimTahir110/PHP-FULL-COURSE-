@@ -21,4 +21,4 @@ if ($per >= 80 && $per <= 100) {
     echo "plz enter Your Correct Persentage";
 }
 
-?>{}
+?>
