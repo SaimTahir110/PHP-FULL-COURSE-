@@ -1,4 +1,5 @@
 <?php
+
 $per = 129;
 
 if ($per >= 80 && $per <= 100) {
@@ -19,4 +20,5 @@ if ($per >= 80 && $per <= 100) {
 }else {
     echo "plz enter Your Correct Persentage";
 }
-?>
+
+?>{}
