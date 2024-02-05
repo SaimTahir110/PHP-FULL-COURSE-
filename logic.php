@@ -19,4 +19,25 @@ if ($age >= 18 && $age <= 21) {
     echo"you can login now";
 }
 
+if ($age >= 18 || $age <= 25) {
+
+    echo"you can login now";
+}
+
+if ($age >= 18 or $age <= 21) {
+
+    echo"you can login now";
+}
+
+if ($age >= 18 xor $age <= 21) {
+
+    echo"you can login now";
+}
+
+if ($age >= 18 && $age <= 21) {
+
+    echo"you can login now";
+}
+
+
 ?>
