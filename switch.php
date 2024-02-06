@@ -1,7 +1,7 @@
 
 <?php
 
-$WEEKDAY = 3;
+$WEEKDAY = 8;
 
 switch($WEEKDAY){
 
@@ -37,7 +37,7 @@ switch($WEEKDAY){
                             break;
 
 
-                            case 8:
+                            default:
                                 echo "enter valid week day number";
                                 break;
 
