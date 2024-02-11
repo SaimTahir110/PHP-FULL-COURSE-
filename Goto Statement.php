@@ -6,9 +6,7 @@ echo "My name is saim tahir<br>";
 echo "My name is saim tahir<br>";
 echo "My name is saim tahir<br>";
 goto abc;
-echo "My name is saim tahir<br>";
-echo "My name is saim tahir<br>";
-echo "My name is saim tahir<br>";
+
 
 
 
