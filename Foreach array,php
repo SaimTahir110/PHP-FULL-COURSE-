@@ -1,0 +1,16 @@
+
+<?php
+
+$emp = [
+
+    [1, "Saim", "Programmer", "50000"],
+    [2, "Tahir", "Computer App", "12000"],
+    [3, "Ali", "Manager", "63000"],
+    [4, "Hamza", "Sale Man", "88000"],
+];
+
+foreach ( $emp as list($id ,$name, $dis, $salary)) {
+    echo "$id ,$name, $dis, $salary <br>";
+}
+
+?>
